@@ -9,16 +9,16 @@ Bem-vindo ao meu portfólio! Aqui compartilho projetos práticos nas áreas de B
 - Python (análise de dados e automações)
 
 ## 📁 Projetos:
-### Power BI
+### (Power BI)
 - [Dashboard de Vendas](./PowerBI/dashboard-vendas): Visualização de KPIs por região e vendedor.
 
-### SQL
+### (SQL)
 - [Análise de clientes por perfil de compra](./SQL/analise-clientes.sql)
 
-### Excel
+### (Excel)
 - [Planilha de controle de estoque com macros](./Excel-Automacoes/controle_estoque_macro.xlsm)
 
-### Python
+### (Python)
 - [Script para extração de dados de um site](./Python/extracao_dados_site.py)
 
 ---
